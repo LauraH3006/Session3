@@ -2,7 +2,6 @@
 ### this will be smaller
 this is normal text
 
-![]("https://th.bing.com/th/id/R.ff915d4adf31ecbf708a8c233dd2ff2f?rik=lqD1zwYPtdnw3w&pid=ImgRaw&r=0")
-
+![](https://github.com/LauraH3006/Session3/blob/master/puppy.jpg)
 
 
